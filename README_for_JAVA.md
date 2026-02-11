@@ -47,8 +47,8 @@ leetcode-100-days-java-challenge/
 │   └── problem-tracking.xlsx (or notes)
 │
 ├── Day-01/
-│   ├── ProblemName.java
-│   └── README.md
+│   ├── findClosestNumber.java
+│   └── Link: https://leetcode.com/problems/find-closest-number-to-zero/
 │
 ├── Day-10/
 │   ├── Leetcode-54-Spiral-Matrix.java
